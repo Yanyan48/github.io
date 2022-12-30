@@ -1,4 +1,4 @@
-### DIvvy_Exercise_Full_Year_Analysis ###
+### Divvy_Exercise_Full_Year_Analysis ###
 
 # The purpose of this script is to consolidate downloade Divvy data into a signal
 # dataframe and then conduct simple analysis to help answer the key question: In 
